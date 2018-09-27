@@ -1,4 +1,4 @@
-# Company Profile 
+# Company Profile
 
 ![logo](https://user-images.githubusercontent.com/11145035/46134848-cfa27b00-c27e-11e8-94b3-936fcc019f56.png)
 
@@ -70,11 +70,35 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
   - ドキュメンテーション：esa, Confluence
   - タスク管理：Trello, Redmine
 
-## iOS
-TBD
+## Mobile Side
+- 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
+- ソース管理 : GitHub
+- デザイン : Zeplin Prott
+- コミュニケーション : Slack, ChatWork
+- ドキュメンテーション : esa, Confluence
+- タスク管理 : Trello, Redmine
+- CI : Travis & Fastlane
+- 配布 : DeployGate, TestFlight
 
-## Android
-TBD
+### iOS ###
+
+- 言語 : Swift
+- アーキテクチャ : MVP, VIPER, Clean Architecture
+- データベース : Realm
+- 通信(データ) : JSON, gRPC, Protocol Buffers
+- よく使うフレームワーク : Alamofire, SDWebImage, Nuke
+- テスト : XCTest, Cuckoo, iOSSnapshotTestCase
+- Linter : SwiftLint
+
+### Android ###
+
+- 言語 : Kotlin
+- アーキテクチャ : MVP, MVP+Clean, MVVM, Flux
+- DI : Dagger2
+- DB : Room, Realm, ORMA
+- 通信(データ) : Okhttp3, Retrofit2 , JSON, gRPC, Protocol Buffers
+- Linter : ktlint
+- その他 : RxJava(RxKotlin), Epoxy
 
 # IoT Division
 
@@ -92,4 +116,3 @@ TBD
 
 # IoT Division
 TBD
-
