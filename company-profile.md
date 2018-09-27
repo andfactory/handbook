@@ -55,7 +55,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性に
 その先に「住む」や「健康」など人々の生活に大きく関わる社会課題の解決に挑みます。
 
 # 開発について
-![develop](https://user-images.githubusercontent.com/11145035/46121503-f2b53680-c24e-11e8-9e62-767dea8d8879.png)
+![develop](https://user-images.githubusercontent.com/11145035/46139096-93741800-c288-11e8-9691-3800695b8e7d.png)
 
 少数精鋭で取り組むため個々人の裁量が大きく、アプリやサービスをどう構築していくか
 濃度の高い議論をチーム内で行い、開発における決断をスピーディに下していきます。
