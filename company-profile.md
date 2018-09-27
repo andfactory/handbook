@@ -72,13 +72,14 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 
 ## Mobile
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
-- ソース管理 : GitHub
-- デザイン : Zeplin Prott
-- コミュニケーション : Slack, ChatWork
-- ドキュメンテーション : esa, Confluence
-- タスク管理 : Trello, Redmine
-- CI : Travis & Fastlane
-- 配布 : DeployGate, TestFlight
+- and factoryで使用している技術/ツール
+  - ソース管理 : GitHub
+  - デザイン : Zeplin, Prott
+  - コミュニケーション : Slack, ChatWork
+  - ドキュメンテーション : esa, Confluence
+  - タスク管理 : Trello, Redmine
+  - CI : Travis, Fastlane
+  - 配布 : DeployGate, TestFlight
 
 ### iOS ###
 
@@ -112,7 +113,7 @@ TBD
 面接の進め方については、以下をご参照ください。
 ## Smartphone APP Division
 - [Server Side](https://github.com/andfactory/handbook/blob/master/interview-guide-app-serverside.md)
-- [iOS/android](https://github.com/andfactory/handbook/blob/master/interview-guide-app-mobile.md)
+- [Mobile](https://github.com/andfactory/handbook/blob/master/interview-guide-app-mobile.md)
 
 # IoT Division
 TBD
