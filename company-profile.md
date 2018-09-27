@@ -88,3 +88,13 @@ TBD
 
 ## Android
 TBD
+
+# 面接について
+面接の進め方については、以下を参照ください。
+## Smartphone APP Division
+- [Server Side](https://github.com/andfactory/handbook/blob/master/interview-guide-app-serverside.md)
+- [iOS/android](https://github.com/andfactory/handbook/blob/master/interview-guide-app-mobile.md)
+
+# IoT Division
+TBD
+
