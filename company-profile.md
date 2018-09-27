@@ -23,7 +23,7 @@ and factoryは人々の生活に＆を届けるために面白いアイデアと
 - 社員数：56人（2018年6月30日現在）
 
 # OFFICE
-## OFFICE
+## WORKING SPACE
 ![office](https://user-images.githubusercontent.com/11145035/46134852-d03b1180-c27e-11e8-8362-0e8beb49c90e.jpg)
 ## SHOW ROOM
 ![showroom](https://user-images.githubusercontent.com/11145035/46134854-d0d3a800-c27e-11e8-868f-d00910f19f30.png)
@@ -38,6 +38,7 @@ Smartphoneの登場以降、世界は劇的に変わり、今や私たちの生�
 そしてSmartphoneを介して成立するビジネスも飛躍的に増えています。
 そのような環境にあって弊社では様々なバックグラウンドを持つ人材が集結しており、
 各々の専門性を活かしてIdeaを出し合い、未だ見ぬビジネスに積極的に挑戦を続けています。
+
 ![business](https://user-images.githubusercontent.com/11145035/46134846-cfa27b00-c27e-11e8-9ec7-d5ae1ac5779d.png)
 
 and factoryを構成する2つの軸は、Smartphone APP事業、IoT事業です。
