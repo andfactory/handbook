@@ -1,19 +1,19 @@
 # Company Profile 
 
-![logo](https://user-images.githubusercontent.com/11145035/46121153-72420600-c24d-11e8-86f3-29352128c13f.png)
+![logo](https://user-images.githubusercontent.com/11145035/46134848-cfa27b00-c27e-11e8-94b3-936fcc019f56.png)
 
 and factoryは人々の生活に＆を届けるために面白いアイデアと真剣な熱意を持ち、様々な領域で取り組んでいます。
 
 # OUR MISSION
 
-## 「日常に＆を届ける」
+![mission1](https://user-images.githubusercontent.com/11145035/46134849-d03b1180-c27e-11e8-8fc9-ba034a38fefc.png)
 
 私たちは「日常に&を届ける」こと
 つまり、人々の生活を豊かにするサービスを提供することをミッションとしています。
 生活のすき間時間を彩る楽しみや忙しい毎日を便利で快適にする仕組みなど、
 昨日までの日常に新しい何かを加えることで生活が豊かになるようなサービスを創出していきます。
 
-![mission](https://user-images.githubusercontent.com/11145035/46121154-72da9c80-c24d-11e8-8837-da7bb135843d.png)
+![mission2](https://user-images.githubusercontent.com/11145035/46134851-d03b1180-c27e-11e8-82f3-51e53e70e04a.png)
 
 # ABOUT and factory
 - 会社名：and factory株式会社（英文社名：and factory,inc）
@@ -24,22 +24,21 @@ and factoryは人々の生活に＆を届けるために面白いアイデアと
 
 # OFFICE
 ## OFFICE
-![office](https://user-images.githubusercontent.com/11145035/46121155-72da9c80-c24d-11e8-90a8-fa42eec7d4b3.jpg)
+![office](https://user-images.githubusercontent.com/11145035/46134852-d03b1180-c27e-11e8-8362-0e8beb49c90e.jpg)
 ## SHOW ROOM
-![showroom](https://user-images.githubusercontent.com/11145035/46121156-72da9c80-c24d-11e8-9489-d058c8b7fc0f.png)
+![showroom](https://user-images.githubusercontent.com/11145035/46134854-d0d3a800-c27e-11e8-868f-d00910f19f30.png)
 ## ＆ AND CAFE
-![cafe](https://user-images.githubusercontent.com/11145035/46121152-72420600-c24d-11e8-8ce0-fca55b10391a.png)
-
+![cafe](https://user-images.githubusercontent.com/11145035/46134847-cfa27b00-c27e-11e8-98cc-aa97148789de.png)
 
 # BUSINESS
 
-私たちはSmartphone Idea Companyとして、							
-Smartphoneの持つ事業可能性に対してどこまでも真摯に取り組んでいく企業です。							
-Smartphoneの登場以降、世界は劇的に変わり、今や私たちの生活に欠かせないものとなりました。							
-そしてSmartphoneを介して成立するビジネスも飛躍的に増えています。							
-そのような環境にあって弊社では様々なバックグラウンドを持つ人材が集結しており、							
-各々の専門性を活かしてIdeaを出し合い、未だ見ぬビジネスに積極的に挑戦を続けています。							
-![business](https://user-images.githubusercontent.com/11145035/46121151-72420600-c24d-11e8-89b6-3708bc29a6da.png)
+私たちはSmartphone Idea Companyとして、
+Smartphoneの持つ事業可能性に対してどこまでも真摯に取り組んでいく企業です。
+Smartphoneの登場以降、世界は劇的に変わり、今や私たちの生活に欠かせないものとなりました。
+そしてSmartphoneを介して成立するビジネスも飛躍的に増えています。
+そのような環境にあって弊社では様々なバックグラウンドを持つ人材が集結しており、
+各々の専門性を活かしてIdeaを出し合い、未だ見ぬビジネスに積極的に挑戦を続けています。
+![business](https://user-images.githubusercontent.com/11145035/46134846-cfa27b00-c27e-11e8-9ec7-d5ae1ac5779d.png)
 
 and factoryを構成する2つの軸は、Smartphone APP事業、IoT事業です。
 
