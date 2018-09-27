@@ -70,7 +70,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
   - ドキュメンテーション：esa, Confluence
   - タスク管理：Trello, Redmine
 
-## Mobile Side
+## Mobile
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - ソース管理 : GitHub
 - デザイン : Zeplin Prott
