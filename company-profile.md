@@ -67,6 +67,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
   - OS：Ubuntu, CentOS
   - インフラ：さくらクラウド, AWS
   - Webサーバ：Nginx, Apache
+  - CI : Travis CI
   - バージョン管理:GitHub
   - コミュニケーション：Slack, ChatWork
   - ドキュメンテーション：esa, Confluence
@@ -80,7 +81,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
   - コミュニケーション : Slack, ChatWork
   - ドキュメンテーション : esa, Confluence
   - タスク管理 : Trello, Redmine
-  - CI : Travis, Fastlane
+  - CI : Travis CI, Fastlane
   - 配布 : DeployGate, TestFlight
 
 ### iOS ###
