@@ -85,7 +85,7 @@
 #### Overview
 
 課題を通してAndroid開発における技術力を確認させていただければと思います。
-以下の要件(Must)を満たすアプリケーションを作成し、github個人アカウントのRepositoryで管理、共有していただきたく段取りとなります。
+以下の要件(Must)を満たすアプリケーションを作成し、Github個人アカウントのRepositoryで管理、共有していただきたく段取りとなります。
 
 #### Requirements
 | title | importance | notes |
@@ -95,10 +95,9 @@
 | 項目をタップ時に`README.md`を表示する | Must | 画面遷移あるいはDialogによるWebViewでの表示 |
 | MVP, MVVM, Fluxなどのアーキテクチャパターンを導入する | Must | https://github.com/googlesamples/android-architecture |
 | dependency injection design patternを使う | Must | dagger2やKodeinなどのDIコンテナを使用する |
+| オフライン時にSnackbarでアラートを表示する | Must | - |
 | Viewの生成に[epoxy](https://github.com/airbnb/epoxy)を使用する | Could | Android library for building complex screens in a RecyclerView |
-| お気に入りにする | Could | `AAC Room` or `Realm` or `ORMA`などを用いてアプリ内DBの構築。 |
-| オフライン時に項目をタップでSnackbarでアラートを表示する | Could | - |
-| MVP, MVVM, Fluxなどのアーキテクチャパターンを導入する | Could | - |
+| お気に入りに追加する | Could | `AAC Room` or `Realm` or `ORMA`などを用いてアプリ内DBの構築。 |
 | 一覧表示時のアニメーション | Could | Slide Upなど |
 | 項目をDrag＆Dropして並び替える | Could | - |
 | Unit Testing | Could | - |
