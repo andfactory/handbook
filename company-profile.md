@@ -63,11 +63,11 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 - and factoryで使用している技術/ツール
   - 言語：Go, PHP
   - フレームワーク：CodeIgniter, *Goについては特定フレームワークなし
-  - データベース：MySQL, memcached, redis
+  - データベース：MySQL, memcached, Redis
   - OS：Ubuntu, CentOS
   - インフラ：さくらクラウド, AWS
   - Webサーバ：Nginx, Apache
-  - ソース管理:GitHub
+  - バージョン管理:GitHub
   - コミュニケーション：Slack, ChatWork
   - ドキュメンテーション：esa, Confluence
   - タスク管理：Trello, Redmine
@@ -75,7 +75,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 ## Mobile
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
-  - ソース管理 : GitHub
+  - バージョン管理 : GitHub
   - デザイン : Zeplin, Prott
   - コミュニケーション : Slack, ChatWork
   - ドキュメンテーション : esa, Confluence
