@@ -20,11 +20,11 @@ and factoryは人々の生活に＆を届けるために面白いアイデアと
 - 社員数：56人（2018年6月30日現在）
 - 参考：2018年7月時点
 
-| | Web* | iOS | android | Design | Total |
-| --- | --- | --- | --- | --- | --- |
-| App Div | - | - | - | - | - |
-| IoT Div | - | - | - | - | - |
-| Total | - | - | - | - | - |
+| | Web* | iOS | Android | Design | Total |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| App Div | 2 | 10 | 5 | 5 | 22 |
+| IoT Div | 5 | - | 4 | 2 | 11 |
+| Total | 7 | 10 | 9 | 7 | 33 |
 
 \* andfactoryにおいてはフロントエンドとバックエンド、SRE等に分かれておらずWeb Engineerが全般的に担当します。
 
@@ -45,7 +45,9 @@ and factoryは人々の生活に＆を届けるために面白いアイデアと
 and factoryを構成する2つの軸は、Smartphone APP事業、IoT事業です。
 
 ## Smartphone APP事業
-Smartphone Idea Companyとして、スマートフォンの持つ可能性にチャレンジしていくand factoryにおいて、ユーザーとサービスを繋ぐ様々なアプリを開発しています。これまでに50タイトル以上の自社アプリを開発・運用した実績を活かし、ツール系アプリやゲーム攻略掲示板アプリ、マンガアプリを中心に、複数の人気アプリをリリースしています。
+Smartphone Idea Companyとして、スマートフォンの持つ可能性にチャレンジしていくand factoryにおいて、ユーザーとサービスを繋ぐ様々なアプリを開発しています。これまでに50タイトル以上の自社アプリを開発・運用した実績を活かし、ツール系アプリやゲーム攻略掲示板アプリ、マンガアプリを中心に、複数の人気アプリをリリースしています。Smartphone APP事業は&AND COMICSと&AND APPSの主に2つのドメインで展開をしています。
+- &AND COMICS：大手出版社との協業マンガアプリを多数開発
+- &AND APPS：ゲーム攻略掲示板アプリやカジュアルアプリ、その他新規アプリ開発
 
 ## IoT事業
 現在のIoT市場を固定概念では捉えず、新しいビジネスモデルを創り出します。アプリで培った経験やスピードと実行力で、貪欲にチャレンジをしています。まずは宿泊領域で「泊まる」の未来を変え、その先に「住む」や「健康」など人々の生活に大きく関わる社会課題の解決に挑みます。
@@ -60,12 +62,13 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
   - 言語：Go, PHP
-  - フレームワーク：CodeIgniter, *Goについては特定フレームワークなし
-  - データベース：MySQL, memcached, redis
+  - フレームワーク：(Go)特定フレームワークなし、(PHP)CodeIgniter
+  - データベース：MySQL, memcached, Redis
   - OS：Ubuntu, CentOS
   - インフラ：さくらクラウド, AWS
   - Webサーバ：Nginx, Apache
-  - ソース管理:GitHub
+  - CI : Travis CI
+  - バージョン管理:GitHub
   - コミュニケーション：Slack, ChatWork
   - ドキュメンテーション：esa, Confluence
   - タスク管理：Trello, Redmine
@@ -73,12 +76,12 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 ## Mobile
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
-  - ソース管理 : GitHub
+  - バージョン管理 : GitHub
   - デザイン : Zeplin, Prott
   - コミュニケーション : Slack, ChatWork
   - ドキュメンテーション : esa, Confluence
   - タスク管理 : Trello, Redmine
-  - CI : Travis, Fastlane
+  - CI : Travis CI, Fastlane
   - 配布 : DeployGate, TestFlight
 
 ### iOS ###
