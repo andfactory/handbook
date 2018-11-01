@@ -111,7 +111,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
   - 言語 : Go, PHP, Java
-  - フレームワーク:
+  - フレームワーク : 
     - Go : なし
     - PHP : laravel, CodeIgniter
     - Java : Spring
