@@ -131,7 +131,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 - DB : Realm
 - 通信(データ) : API Gateway JSON
 - Linter : ktlint
-- ドキュメンテーション: Confluence
+- ドキュメンテーション : Confluence
 - その他 : RxJava(RxKotlin)
 - タスク管理 : Redmine, Jira
 
