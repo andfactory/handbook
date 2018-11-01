@@ -107,16 +107,36 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 # IoT Division
 
 ## Server Side
-TBD
+- バージョン管理:GitHub
+- 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
+- and factoryで使用している技術/ツール
+  - 言語: Go, PHP, Java
+  - フレームワーク:
+    - Go: なし
+    - PHP: laravel, CodeIgniter
+    - Java: Spring
+  - インフラ: AWS, さくらクラウド
+  - OS: Amazon Linux
+  - Webサーバ: Apache, Tomcat
+  - ドキュメンテーション: Confluence
+  - タスク管理：Redmine, Jira
 
-## Android
-TBD
+
+### Mobile
+- バージョン管理: GitHub, Gitbucket
+- 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
+
+### Android ###
+- 言語 : Kotlin
+- DB : Realm
+- 通信(データ) : API Gateway JSON
+- Linter : ktlint
+- ドキュメンテーション: Confluence
+- その他 : RxJava(RxKotlin)
+- タスク管理：Redmine, Jira
 
 # 面接について
 面接の進め方については、以下をご参照ください。
 ## Smartphone APP Division
 - [Server Side](https://github.com/andfactory/handbook/blob/master/interview-guide-app-serverside.md)
 - [Mobile](https://github.com/andfactory/handbook/blob/master/interview-guide-app-mobile.md)
-
-# IoT Division
-TBD
