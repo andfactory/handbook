@@ -122,7 +122,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
   - タスク管理：Redmine, Jira
 
 
-### Mobile
+## Mobile
 - バージョン管理: GitHub, Gitbucket
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 
