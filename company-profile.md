@@ -13,12 +13,12 @@ and factoryは人々の生活に＆を届けるために面白いアイデアと
 ![mission2](https://user-images.githubusercontent.com/11145035/46134851-d03b1180-c27e-11e8-82f3-51e53e70e04a.png)
 
 # ABOUT and factory
-- 会社名：and factory株式会社（英文社名：and factory,inc）
-- 代表者：代表取締役社長 小原 崇幹（おはら たかまさ）
-- 設立日：2014年9月16日
-- 所在地：東京都目黒区青葉台3-6-28 住友不動産青葉台タワー1F、2F（総合受付は2Fです）
-- 社員数：72人（2018年9月末時点）
-- 参考：
+- 会社名 : and factory株式会社（英文社名：and factory,inc）
+- 代表者 : 代表取締役社長 小原 崇幹（おはら たかまさ）
+- 設立日 : 2014年9月16日
+- 所在地 : 東京都目黒区青葉台3-6-28 住友不動産青葉台タワー1F、2F（総合受付は2Fです）
+- 社員数 : 72人（2018年9月末時点）
+- 参考 : 
 
 | | Web* | iOS | Android | Design | Total |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -46,8 +46,8 @@ and factoryを構成する2つの軸は、Smartphone APP事業、IoT事業です
 
 ## Smartphone APP事業
 Smartphone Idea Companyとして、スマートフォンの持つ可能性にチャレンジしていくand factoryにおいて、ユーザーとサービスを繋ぐ様々なアプリを開発しています。これまでに50タイトル以上の自社アプリを開発・運用した実績を活かし、ツール系アプリやゲーム攻略掲示板アプリ、マンガアプリを中心に、複数の人気アプリをリリースしています。Smartphone APP事業は&AND COMICSと&AND APPSの主に2つのドメインで展開をしています。
-- &AND COMICS：大手出版社との協業マンガアプリを多数開発
-- &AND APPS：ゲーム攻略掲示板アプリやカジュアルアプリ、その他新規アプリ開発
+- &AND COMICS : 大手出版社との協業マンガアプリを多数開発
+- &AND APPS : ゲーム攻略掲示板アプリやカジュアルアプリ、その他新規アプリ開発
 
 ## IoT事業
 現在のIoT市場を固定概念では捉えず、新しいビジネスモデルを創り出します。アプリで培った経験やスピードと実行力で、貪欲にチャレンジをしています。まずは宿泊領域で「泊まる」の未来を変え、その先に「住む」や「健康」など人々の生活に大きく関わる社会課題の解決に挑みます。
@@ -61,17 +61,17 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 ## Server Side
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
-  - 言語：Go, PHP
-  - フレームワーク：(Go)特定フレームワークなし、(PHP)CodeIgniter
-  - データベース：MySQL, memcached, Redis
-  - OS：Ubuntu, CentOS
-  - インフラ：さくらクラウド, AWS
-  - Webサーバ：Nginx, Apache
+  - 言語 : Go, PHP
+  - フレームワーク : (Go)特定フレームワークなし、(PHP)CodeIgniter
+  - データベース : MySQL, memcached, Redis
+  - OS : Ubuntu, CentOS
+  - インフラ : さくらクラウド, AWS
+  - Webサーバ : Nginx, Apache
   - CI : Travis CI
-  - バージョン管理:GitHub
-  - コミュニケーション：Slack, ChatWork
-  - ドキュメンテーション：esa, Confluence
-  - タスク管理：Trello, Redmine
+  - バージョン管理 : GitHub
+  - コミュニケーション : Slack, ChatWork
+  - ドキュメンテーション : esa, Confluence
+  - タスク管理 : Trello, Redmine
 
 ## Mobile
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
