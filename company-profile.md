@@ -1,6 +1,6 @@
 # Company Profile
 
-![logo](https://user-images.githubusercontent.com/11145035/46134848-cfa27b00-c27e-11e8-94b3-936fcc019f56.png)
+![logo](https://user-images.githubusercontent.com/11145035/68910413-08f4bd80-0795-11ea-95ac-71ea73d88f8c.png)
 
 and factoryは人々の生活に＆を届けるために面白いアイデアと真剣な熱意を持ち、様々な領域で取り組んでいます。
 
@@ -17,14 +17,14 @@ and factoryは人々の生活に＆を届けるために面白いアイデアと
 - 代表者 : 代表取締役社長 小原 崇幹（おはら たかまさ）
 - 設立日 : 2014年9月16日
 - 所在地 : 東京都目黒区青葉台3-6-28 住友不動産青葉台タワー1F、2F（総合受付は2Fです）
-- 社員数 : 72人（2018年9月末時点）
+- 社員数 : 90人（2019年10月末時点）
 - 参考 : 
 
 | | Web* | iOS | Android | Design | Total |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| App Div | 2 | 10 | 5 | 5 | 22 |
-| IoT Div | 5 | - | 4 | 2 | 11 |
-| Total | 7 | 10 | 9 | 7 | 33 |
+| App Div | 7 | 11 | 10 | 10 | 38 |
+| IoT Div | 7 | - | 3 | 3 | 13 |
+| Total | 14 | 11 | 13 | 13 | 51 |
 
 \* andfactoryにおいてはフロントエンドとバックエンド、SRE等に分かれておらずWeb Engineerが全般的に担当します。
 
@@ -63,15 +63,16 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 - and factoryで使用している技術/ツール
   - 言語 : Go, PHP
   - フレームワーク : (Go)特定フレームワークなし、(PHP)CodeIgniter
-  - データベース : MySQL, memcached, Redis
+  - データベース : MySQL
+  - キャッシュ : Redis, memcached
   - OS : Ubuntu, CentOS
-  - インフラ : さくらクラウド, AWS
+  - インフラ : AWS, さくらクラウド
   - Webサーバ : Nginx, Apache
-  - CI : Travis CI
-  - バージョン管理 : GitHub
+  - CI : Circle CI
+  - ソース管理 : GitHub
   - コミュニケーション : Slack, ChatWork
   - ドキュメンテーション : esa, Confluence
-  - タスク管理 : Trello, Redmine
+  - タスク管理 : Trello, Backlog, Redmine
 
 ## Mobile
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
