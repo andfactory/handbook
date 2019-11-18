@@ -100,11 +100,12 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 
 - 言語 : Kotlin
 - Jetpack : KTX, Data-binding, ViewModel, LiveData, Navigation, Room...
-- アーキテクチャ : MVP, MVP+Clean, MVVM
+- アーキテクチャ : MVP, MVP+Clean, MVVM (multi module)
 - DI : Dagger2, Koin
-- 通信(データ) : Okhttp3, Retrofit2 , JSON, gRPC, Protocol Buffers
+- 通信(データ) : Okhttp3, Retrofit2, JSON, gRPC, Protocol Buffers
+- Test : JUnit5, mockK, spek...
 - Linter : ktlint
-- その他 : Kotlin-Coroutine, RxJava(RxKotlin), Epoxy
+- その他 : Kotlin-Coroutine, RxJava(RxKotlin), Epoxy, Danger, Firebase...
 
 # IoT Division
 
