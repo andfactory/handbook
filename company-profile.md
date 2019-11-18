@@ -77,23 +77,24 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 ## Mobile
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
-  - バージョン管理 : GitHub
-  - デザイン : Zeplin, Prott
+  - ソース管理 : GitHub
+  - デザイン : Zeplin, Prott, Figma
   - コミュニケーション : Slack, ChatWork
   - ドキュメンテーション : esa, Confluence
   - タスク管理 : Trello, Redmine
-  - CI : Travis CI, Fastlane
+  - CI : Bitrise, Circle CI, Travis CI, Fastlane
   - 配布 : DeployGate, TestFlight
 
 ### iOS ###
 
 - 言語 : Swift
-- アーキテクチャ : MVP, VIPER, Clean Architecture
+- アーキテクチャ : MVP, MVVM, VIPER, Clean Architecture
 - データベース : Realm
 - 通信(データ) : JSON, gRPC, Protocol Buffers
 - よく使うフレームワーク : Alamofire, SDWebImage, Nuke
 - テスト : XCTest, Cuckoo, iOSSnapshotTestCase
 - Linter : SwiftLint
+- その他 : RxSwift
 
 ### Android ###
 
@@ -108,7 +109,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 # IoT Division
 
 ## Server Side
-- バージョン管理 : GitHub
+- ソース管理 : GitHub
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
   - 言語 : Go, PHP, Java
@@ -124,7 +125,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 
 
 ## Mobile
-- バージョン管理 : GitHub, Gitbucket
+- ソース管理 : GitHub, Gitbucket
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 
 ### Android ###
