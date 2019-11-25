@@ -18,7 +18,7 @@ and factoryは人々の生活に＆を届けるために面白いアイデアと
 - 設立日 : 2014年9月16日
 - 所在地 : 東京都目黒区青葉台3-6-28 住友不動産青葉台タワー1F、2F（総合受付は2Fです）
 - 社員数 : 90人（2019年10月末時点）
-- 参考 : 
+- 参考 :
 
 | | Web* | iOS | Android | Design | Total |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -99,12 +99,13 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 ### Android ###
 
 - 言語 : Kotlin
-- アーキテクチャ : MVP, MVP+Clean, MVVM, Flux
-- DI : Dagger2
-- DB : Room, Realm, ORMA
-- 通信(データ) : Okhttp3, Retrofit2 , JSON, gRPC, Protocol Buffers
+- Jetpack : KTX, Data-binding, ViewModel, LiveData, Navigation, Room...
+- アーキテクチャ : MVP, MVP+Clean, MVVM (multi module)
+- DI : Dagger2, Koin
+- 通信(データ) : Okhttp3, Retrofit2, JSON, gRPC, Protocol Buffers
+- Test : JUnit5, mockK, spek...
 - Linter : ktlint
-- その他 : RxJava(RxKotlin), Epoxy
+- その他 : Kotlin-Coroutine, RxJava(RxKotlin), Epoxy, Danger, Firebase...
 
 # IoT Division
 
@@ -113,7 +114,7 @@ Smartphone Idea Companyとして、スマートフォンの持つ可能性にチ
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています。
 - and factoryで使用している技術/ツール
   - 言語 : Go, PHP, Java
-  - フレームワーク : 
+  - フレームワーク :
     - Go : なし
     - PHP : laravel, CodeIgniter
     - Java : Spring
